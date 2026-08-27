@@ -1,0 +1,6 @@
+{
+  "name": "Multiple Disease Prediction System",
+  "description": "Streamlit-inspired clinical diagnostic application for predicting Diabetes, Heart Disease, and Parkinson's Disease from patient data with exact ML modeling algorithms and interactive parameter analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

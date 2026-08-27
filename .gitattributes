@@ -1,0 +1,12 @@
+# Force GitHub's Linguist to report 100% Python for this repository
+*.ts linguist-detectable=false
+*.tsx linguist-detectable=false
+*.js linguist-detectable=false
+*.css linguist-detectable=false
+*.html linguist-detectable=false
+*.json linguist-detectable=false
+*.lock linguist-detectable=false
+src/*.tsx linguist-detectable=false
+src/**/*.tsx linguist-detectable=false
+src/*.ts linguist-detectable=false
+src/**/*.ts linguist-detectable=false
